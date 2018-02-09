@@ -12,7 +12,7 @@ contract Inbox {
     }
 
     function points(string initialPoints) private{
-      initia
+       initialPoints = new intialPoints;
 
     }
 }
